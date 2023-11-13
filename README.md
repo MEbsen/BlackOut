@@ -5,10 +5,10 @@ This will turn off your monitor, or on depending on the parameter given to the e
 Setup by powershell or scheduled task in Windows.
 
 Turn off example:
-./blackout off
+./BlackOut off
 
 Turn on example:
-./Blackout on
+./BlackOut on
 
 
 Remember in Windows 10 and up to fill in the "Start in" parameter for scheduled tasks.
